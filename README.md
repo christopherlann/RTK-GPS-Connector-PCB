@@ -1,2 +1,2 @@
-# RTK-GPS-Helper-PCB
-KiCad files for the helper PCB for the RTK-GPS project
+# RTK-GPS-Connector-PCB
+KiCad files for the connector PCB for the RTK-GPS project
